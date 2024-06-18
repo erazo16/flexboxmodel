@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.containerRow{
+    border: 1px solid gray;
+    width: 100%;
+    margin: 2rem 0rem;
+    height: auto;
+    padding: 1.5rem;
+}
+
+.items{
+    height: 2rem;
+    border: 1px solid gray;
+    padding: 5rem;
+    text-align: center;
+}
+
+
